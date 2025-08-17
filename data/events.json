@@ -1,0 +1,26 @@
+[
+    {
+        "id": "7ab94c",
+        "name": "Tech Quiz",
+        "date": "18-08-2025",
+        "time": "9:00",
+        "type": "Quiz",
+        "location": "PCCOE"
+    },
+    {
+        "id": "910ace",
+        "name": "AI/ML Workshop",
+        "date": "20-08-2025",
+        "time": "5:00",
+        "type": "Workshop",
+        "location": "PCCOE"
+    },
+    {
+        "id": "7875be",
+        "name": "App Development Contest",
+        "date": "17-08-2025",
+        "time": "8:50",
+        "type": "Contest",
+        "location": "PCCOE"
+    }
+]
