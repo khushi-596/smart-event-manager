@@ -1,23 +1,19 @@
-# 📅 Smart Event Manager
+#Smart Event Manager
 
 A simple, terminal-based Event Management System built in Python. 
 It allows an admin to manage events, view schedules, search, and send reminders to attendees — all from the command line.
 
----
+#Features
 
-## 🚀 Features
+- Admin Login (Username/Password)
+- Add, Edit, Delete Events
+- View Events by Specific Date or Today
+- Search Events by Name or Type
+- Send Event Reminders (console-based)
+- Date and Time Format Validation
+- Persistent storage via `JSON` and `CSV`
 
-- ✅ Admin Login (Username/Password)
-- 📝 Add, Edit, Delete Events
-- 📆 View Events by Specific Date or Today
-- 🔍 Search Events by Name or Type
-- 🔔 Send Event Reminders (console-based simulation)
-- ✅ Date and Time Format Validation
-- 💾 Persistent storage via `JSON` and `CSV`
-
----
-
-## 📁 Project Structure
+#Project Structure
 
 smart-event-manager/
 ├── README.md
@@ -32,16 +28,13 @@ smart-event-manager/
 │ ├── events.json # Event storage
 │ └── attendance.csv # Recipients list (email)
 
-## 🔧 Requirements
+##Requirements
 
 - Python 3.7+
-- No external libraries required
+  
+#Setup & Usage
 
----
-
-## ⚙️ Setup & Usage
-
-### 📥 Clone the Repository
+#Clone the Repository
 
 ```bash
 git clone https://github.com/yourusername/smart-event-manager.git
