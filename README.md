@@ -13,7 +13,7 @@ It allows an admin to manage events, view schedules, search, and send reminders 
 - Date and Time Format Validation
 - Persistent storage via `JSON` and `CSV`
 
-#Project Structure
+##Project Structure
 
 smart-event-manager/
 ├── README.md
